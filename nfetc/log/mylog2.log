@@ -1,0 +1,26 @@
+[2020-11-13 21:26:50,168] INFO: build_posterior_wrapper took 0.009972 seconds
+[2020-11-13 21:26:50,168] INFO: TPE using 0 trials
+[2020-11-13 21:26:50,192] INFO: loading projection weights from ./data/glove.840B.300d.txt
+[2020-11-13 21:26:50,202] ERROR: job exception: invalid literal for int() with base 10: ','
+[2020-11-13 21:29:52,576] INFO: build_posterior_wrapper took 0.009974 seconds
+[2020-11-13 21:29:52,577] INFO: TPE using 0 trials
+[2020-11-13 21:34:56,340] INFO: loading projection weights from ./data/glove.840B.300d.txt
+[2020-11-13 21:35:45,369] ERROR: job exception: invalid literal for int() with base 10: ','
+[2020-11-13 21:49:07,880] INFO: build_posterior_wrapper took 0.009945 seconds
+[2020-11-13 21:49:07,880] INFO: TPE using 0 trials
+[2020-11-13 21:49:11,218] INFO: loading projection weights from ./data/glove.840B.300d.txt
+[2020-11-13 21:49:14,971] ERROR: job exception: invalid literal for int() with base 10: ','
+[2020-11-13 21:52:13,032] INFO: build_posterior_wrapper took 0.010970 seconds
+[2020-11-13 21:52:13,032] INFO: TPE using 0 trials
+[2020-11-13 21:52:13,233] INFO: loading projection weights from ./data/glove.840B.300d.txt
+[2020-11-13 21:52:16,254] ERROR: job exception: invalid literal for int() with base 10: ','
+[2020-11-13 22:04:06,073] INFO: build_posterior_wrapper took 0.011996 seconds
+[2020-11-13 22:04:06,073] INFO: TPE using 0 trials
+[2020-11-13 22:04:06,285] INFO: loading projection weights from ./data/glove.840B.300d.txt
+[2020-11-13 22:04:09,417] ERROR: job exception: invalid literal for int() with base 10: ','
+[2020-11-13 22:13:23,759] INFO: build_posterior_wrapper took 0.009972 seconds
+[2020-11-13 22:13:23,759] INFO: TPE using 0 trials
+[2020-11-13 22:13:25,382] INFO: loading projection weights from ./data/glove.840B.300d.txt
+[2020-11-13 22:14:02,810] INFO: build_posterior_wrapper took 0.011004 seconds
+[2020-11-13 22:14:02,810] INFO: TPE using 0 trials
+[2020-11-13 22:14:04,483] INFO: loading projection weights from ./data/glove.840B.300d.txt
